@@ -3,6 +3,7 @@
 Terrain generation is the process of creating 3D landscapes in computer graphics. It is a technique used in various applications, including video games, virtual reality, and 3D modeling. Many different algorithms can be used to generate terrain. Still, they all share the same primary goal: to create a realistic and varied landscape that is visually appealing and challenging to explore.
 
 Procedural terrain generation algorithms use mathematical formulas and algorithms to generate terrain automatically. These algorithms can create very realistic and varied terrain but can also be very complex and computationally expensive.
+
 Perlin noise is a type of noise that is often used to create smooth, organic-looking landscapes. It is based on adding random values to a grid of points. The higher the value, the taller the terrain will be at that point.
 
 <div align="center">
