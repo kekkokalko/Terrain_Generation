@@ -35,5 +35,8 @@ https://github.com/user-attachments/assets/bbce4b92-96f4-4a89-b384-f2b33da50b7a
 
 
 Progetto di Computer Graphics
+
 Anno Accademico 2025/2026
+
 Docente: Diego Romano
+
