@@ -18,7 +18,7 @@ Fractals are another common technique for generating terrain. Fractals are mathe
 Biomes are regions of the world that share similar climate and vegetation. Terrain generation algorithms can create different biomes, such as forests, mountains, and deserts.
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=CODICE](https://github.com/user-attachments/assets/bbce4b92-96f4-4a89-b384-f2b33da50b7a)">
+  <a href=(https://github.com/user-attachments/assets/bbce4b92-96f4-4a89-b384-f2b33da50b7a)">
     <img src="./img/anteprima.png" alt="Demo Video" width="400"/>
   </a>
 </p>
