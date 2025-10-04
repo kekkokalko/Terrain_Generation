@@ -17,11 +17,7 @@ Fractals are another common technique for generating terrain. Fractals are mathe
 
 Biomes are regions of the world that share similar climate and vegetation. Terrain generation algorithms can create different biomes, such as forests, mountains, and deserts.
 
-<p align="center">
-  <a href=(https://github.com/user-attachments/assets/bbce4b92-96f4-4a89-b384-f2b33da50b7a)">
-    <img src="./img/anteprima.png" alt="Demo Video" width="400"/>
-  </a>
-</p>
+https://github.com/user-attachments/assets/bbce4b92-96f4-4a89-b384-f2b33da50b7a
 
 Height maps are a type of data that represents the height of a terrain. They can generate terrain using a mathematical function to convert the heightmap data into a 3D model.
 Another standard procedural terrain generation algorithm is cellular automata, a system of cells that interact with each other according to a set of rules. Cellular automata can create more complex and realistic terrain than Perlin noise but can also be more computationally expensive.
