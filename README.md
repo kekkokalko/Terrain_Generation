@@ -30,3 +30,10 @@ Terrain generation is the process of creating 3D landscapes in computer graphics
 Another standard procedural terrain generation algorithm is **cellular automata**, a system of cells that interact with each other according to a set of rules. Cellular automata can create more complex and realistic terrain than Perlin noise but can also be more computationally expensive.
 
 https://github.com/user-attachments/assets/bbce4b92-96f4-4a89-b384-f2b33da50b7a
+
+
+
+
+Progetto di Computer Graphics
+Anno Accademico 2025/2026
+Docente: Diego Romano
