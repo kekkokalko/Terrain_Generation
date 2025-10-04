@@ -12,11 +12,13 @@ Terrain generation is the process of creating 3D landscapes in computer graphics
 
 
 
+
 **Fractals** are another common technique for generating terrain. Fractals are mathematical patterns that repeat themselves on different scales. This can be used to create landscapes with much detail and variation.
 
 <div align="center">
   <img width="1132" height="476" alt="Image" src="https://github.com/user-attachments/assets/92ff1310-9557-48b8-8865-05699881d924" />
 </div>
+
 
 
 **Biomes** are regions of the world that share similar climate and vegetation. Terrain generation algorithms can create different biomes, such as forests, mountains, and deserts.
@@ -26,6 +28,7 @@ Terrain generation is the process of creating 3D landscapes in computer graphics
 <div align="center">
   <img width="900" height="273" alt="Image" src="https://github.com/user-attachments/assets/f0ba6523-8d46-422a-ac83-77e7d79b4211" />
 </div>
+
 
 Another standard procedural terrain generation algorithm is **cellular automata**, a system of cells that interact with each other according to a set of rules. Cellular automata can create more complex and realistic terrain than Perlin noise but can also be more computationally expensive.
 
